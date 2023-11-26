@@ -7,7 +7,7 @@
 .yarn/install-state.gz
 
 # config caches
-.stylelintchache
+.stylelintcache
 
 # testing
 /coverage
