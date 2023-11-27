@@ -9,6 +9,8 @@ This boilerplate provides integrated setup for...
 - [husky](https://typicode.github.io/husky/)
 - [lint-staged](https://github.com/lint-staged/lint-staged)
 - [Storybook](https://storybook.js.org/)
+- [Jest](https://jestjs.io/)
+- [Cypress](https://www.cypress.io/)
 
 # CSS Variations
 
