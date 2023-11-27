@@ -14,9 +14,9 @@ This boilerplate provides integrated setup for...
 
 # CSS Variations
 
-Want to use [SCSS](https://sass-lang.com/) for styling? Refer to [the main branch](https://github.com/J3m3/next-app-linter-boilerplate). It also contains [stylelint](https://stylelint.io/) for linting, and [clsx](https://github.com/lukeed/clsx/tree/master) & [cva](https://cva.style/docs) utilities for component styling.
+Want to use [SCSS](https://sass-lang.com/) for styling? Refer to [the main branch](https://github.com/J3m3/next-app-general-boilerplate). It also contains [stylelint](https://stylelint.io/) for linting, and [clsx](https://github.com/lukeed/clsx/tree/master) & [cva](https://cva.style/docs) utilities for component styling.
 
-Want to use [Vanilla-extract](https://vanilla-extract.style/) for styling? Refer to [the vanilla-extract branch](https://github.com/J3m3/next-app-linter-boilerplate/tree/vanilla-extract).
+Want to use [Vanilla-extract](https://vanilla-extract.style/) for styling? Refer to [the vanilla-extract branch](https://github.com/J3m3/next-app-general-boilerplate/tree/vanilla-extract).
 
 # Note
 
