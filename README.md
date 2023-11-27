@@ -18,6 +18,27 @@ Want to use [SCSS](https://sass-lang.com/) for styling? Refer to [the main branc
 
 Want to use [Vanilla-extract](https://vanilla-extract.style/) for styling? Refer to [the vanilla-extract branch](https://github.com/J3m3/next-app-general-boilerplate/tree/vanilla-extract).
 
+# Getting Started
+
+1. Clone this repository:
+
+```bash
+git clone --depth=1 git@github.com:J3m3/next-app-general-boilerplate.git your-project-name
+cd your-project-name
+```
+
+2. Install all dependencies:
+
+```bash
+pnpm install
+```
+
+3. Run the local development server:
+
+```bash
+pnpm dev
+```
+
 # Note
 
 This boilerplate uses [pnpm](https://pnpm.io/) as a package manager. Here's some "npx" equivalents for pnpm.
