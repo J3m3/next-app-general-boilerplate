@@ -1,4 +1,4 @@
-# next-app-linter-boilerplate
+# next-app-general-boilerplate
 
 > A boilerplate wrapping create-next-app with general FE environment setup.
 
