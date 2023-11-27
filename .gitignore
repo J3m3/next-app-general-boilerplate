@@ -6,9 +6,6 @@
 .pnp.js
 .yarn/install-state.gz
 
-# config caches
-.stylelintcache
-
 # testing
 /coverage
 

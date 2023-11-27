@@ -7,5 +7,5 @@ const buildEslintCommand = (filenames) =>
 
 module.exports = {
   'src/**/*.{js,jsx,ts,tsx}': ['prettier --write --cache', buildEslintCommand],
-  'src/**/*.{css,scss}': ['prettier --write --cache', 'pnpm exec stylelint --fix --cache'],
+  'src/**/*.{css,scss}': ['prettier --write --cache'],
 };
