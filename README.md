@@ -12,13 +12,13 @@ This boilerplate provides integrated setup for...
 - [Jest](https://jestjs.io/)
 - [Cypress](https://www.cypress.io/)
 
-# CSS Variations
+## CSS Variations
 
 Want to use [SCSS](https://sass-lang.com/) for styling? Refer to [the main branch](https://github.com/J3m3/next-app-general-boilerplate). It also contains [stylelint](https://stylelint.io/) for linting(allow kebap-case & BEM), and [clsx](https://github.com/lukeed/clsx/tree/master) & [cva](https://cva.style/docs) utilities for component styling.
 
 Want to use [Vanilla-extract](https://vanilla-extract.style/) for styling? Refer to [the vanilla-extract branch](https://github.com/J3m3/next-app-general-boilerplate/tree/vanilla-extract).
 
-# Getting Started
+## Getting Started
 
 1. Clone this repository:
 
@@ -39,7 +39,7 @@ pnpm install
 pnpm dev
 ```
 
-# Note
+## Note
 
 This boilerplate uses [pnpm](https://pnpm.io/) as a package manager. Here's some "npx" equivalents for pnpm.
 
@@ -53,6 +53,6 @@ npx storybook@latest init
 pnpm dlx storybook@latest init
 ```
 
-# Reference
+## Reference
 
 https://stackoverflow.com/questions/75413361/can-i-use-npx-with-pnpm
